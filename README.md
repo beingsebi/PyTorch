@@ -1,2 +1,1 @@
-# PyTorch
-### PyTorch learning process documentation
+# PyTorch learning process documentation
